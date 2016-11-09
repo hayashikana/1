@@ -1,3 +1,3 @@
 # developer_sandbox
 
-コミットテストだよ
+Githubの練習をするリポジトリです。
