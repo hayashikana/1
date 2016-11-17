@@ -6,4 +6,4 @@ tsuzuki  test2
 
 tkinoshita test commit
 
-atomからコミット出来るかテスト
+eclipseからコミットテスト
