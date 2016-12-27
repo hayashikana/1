@@ -6,4 +6,6 @@ tsuzuki  test2
 
 tkinoshita test commit
 
+aokuda test
+
 eclipseからコミットテスト
